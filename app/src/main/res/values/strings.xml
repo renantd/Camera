@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="rationale_camera">Este aplicativo precisa do acesso a câmera para poder tirar fotografias</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="returned_from_app_settings_to_activity">Returned from app settings to MainActivity with the following permissions:         \n\nCamera: %s         \nLocation: %s         \nSMS: %s         \nContacts: %s</string>
+</resources>
